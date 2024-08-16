@@ -10,7 +10,7 @@ function setup() {
 
 function palavraAleatoria() {
 
-  let palavras = ["C", "Ca", "Caos"];
+  let palavras = ["Ca", "Cao", "Caos"];
 
   return random(palavras);
 
